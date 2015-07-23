@@ -25,4 +25,4 @@ Which one you want to use depends on what you want to achieve. If you want to be
 
 ## Tree events
 
-* See [Tree Events](../../Extending-Umbraco/Section-Trees/trees.md) for a listing of the tree events.  
+* See [Tree Events](../../../Extending-Umbraco/Section-Trees/trees.md) for a listing of the tree events.  
