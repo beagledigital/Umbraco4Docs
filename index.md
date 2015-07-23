@@ -25,7 +25,7 @@
 		<a href="Extending/" class="docs-section">
 		<img src="images/icon-extending.png" alt="">
 			<h2>Extending</h2>
-			<p>Documentation on the areas in Umbraco that are extendable such as custmizing backoffice ui and creating packages.</p>
+			<p>Documentation on the areas in Umbraco that are extendable such as customizing backoffice ui and creating packages.</p>
 		</a>
 	</div>
 	<div class="col-sm-6">
